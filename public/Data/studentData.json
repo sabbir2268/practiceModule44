@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 15,
+    "grade": "10th",
+    "gender": "Female",
+    "subjects": {
+      "math": 85,
+      "english": 78,
+      "science": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 16,
+    "grade": "10th",
+    "gender": "Male",
+    "subjects": {
+      "math": 74,
+      "english": 81,
+      "science": 69
+    }
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "age": 15,
+    "grade": "9th",
+    "gender": "Male",
+    "subjects": {
+      "math": 90,
+      "english": 88,
+      "science": 95
+    }
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "age": 14,
+    "grade": "9th",
+    "gender": "Female",
+    "subjects": {
+      "math": 66,
+      "english": 72,
+      "science": 70
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ethan",
+    "age": 16,
+    "grade": "10th",
+    "gender": "Male",
+    "subjects": {
+      "math": 80,
+      "english": 85,
+      "science": 78
+    }
+  }
+]

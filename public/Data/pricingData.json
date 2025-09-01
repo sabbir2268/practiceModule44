@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "Free",
+    "currency": "",
+    "description": "Perfect for beginners starting an online store with essential tools and support.",
+    "features": [
+      "Online Store",
+      "Unlimited Products",
+      "Basic Reports",
+      "24/7 Support"
+    ],
+    "buttonText": "Choose Basic"
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "popular": true,
+    "price": 79,
+    "currency": "USD",
+    "description": "Ideal for growing businesses that need advanced features and marketing tools.",
+    "features": [
+      "Everything in Basic",
+      "Professional Reports",
+      "Gift Cards",
+      "Abandoned Cart Recovery"
+    ],
+    "buttonText": "Choose Standard",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Advanced",
+    "price": 299,
+    "currency": "USD",
+    "description": "Designed for enterprises with advanced needs, analytics, and top-tier support.",
+    "features": [
+      "Everything in Standard",
+      "Advanced Report Builder",
+      "Third-party Calculated Shipping Rates",
+      "Priority Support"
+    ],
+    "buttonText": "Choose Advanced"
+  }
+]
